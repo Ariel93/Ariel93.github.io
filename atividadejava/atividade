@@ -1,0 +1,21 @@
+// Exercicio 01) Faca um programa que leia 3 numeros inteiros e apresente o menor deles.
+
+let n1 = 5;
+let n2 = 10;
+let n3 = 15;
+let menor;
+
+if(n1 < n2){
+  menor = n1;
+}
+else{
+    menor = n2
+}
+   if(n3 < n3){
+    menor = n3;
+}
+console.log(`o menor numero e ${menor}`);
+
+
+
+

@@ -1,0 +1,13 @@
+let n1 = 4
+let n2 = 6
+let n3 = 5
+let soma
+
+soma = (n1+n2+n3);
+
+if(soma%2==0){
+    console.log('o numero e par');
+}
+else{
+ console.log('o numero e impar');
+}
